@@ -1,4 +1,4 @@
-import request from "./../core/request.js";
+import request from "../core/request.js";
 const {
 	chooseImage,
 	chooseVideo,
@@ -7,7 +7,7 @@ const {
 } = require("./utils");
 import {
 	mergeConfig
-} from "./../core/utils.js";
+} from "../core/utils.js";
 export default class fileUpload extends request {
 	constructor(props) {
 		// 调用实现父类的构造函数

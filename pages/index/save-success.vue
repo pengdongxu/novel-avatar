@@ -9,9 +9,10 @@
 			<button open-type="share" class="primary-btn" @click="shareMPweixin">发给朋友</button>
 			<button class="action-btn" @click="navIndex()">再来一张</button>
 		</view>
-		<view style="margin: 20px;">
+    <!--流量主消息-->
+<!--		<view style="margin: 20px;">
 			<ad unit-id="adunit-eea0028c636292bf"></ad>
-		</view>
+		</view>-->
 	</view>
 </template>
 

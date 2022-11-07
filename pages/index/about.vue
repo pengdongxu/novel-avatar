@@ -24,22 +24,22 @@
 				</view>
 				<text class="action text-sm">复制</text>
 			</view>
-			<!-- <view class="cu-item margin-top arrow" @click="copy('http://www.wdxdd.top')">
+			<!-- <view class="cu-item margin-top arrow" @click="copy('http://www.baidu.com')">
 				<view class="content">
 					<view class="">
 						个人博客
 					</view>
-					<text class="text-sm">http://www.wdxdd.top</text>
+					<text class="text-sm">http://www.baidu.com</text>
 				</view>
 				<text class="action text-sm">复制</text>
 			</view>
 
-			<view class="cu-item  margin-top arrow" @click="copy('400-140-2108')">
+			<view class="cu-item  margin-top arrow" @click="copy('110')">
 				<view class="content">
 					<view class="">
 						违法和不良信息举报电话
 					</view>
-					<text class="text-sm">400-140-2108</text>
+					<text class="text-sm">110</text>
 				</view>
 				<text class="action text-sm">复制</text>
 			</view> -->

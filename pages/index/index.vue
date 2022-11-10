@@ -37,6 +37,7 @@
 					<button class="action-btn btn-margin" @click="getUserProfile('createImages')">获取头像</button>
 
 					<button class="action-btn btn-primary btn-margin" @click="shareFc()">保存头像</button>
+          <button open-type="contact" class="action-btn btn-about btn-margin">反馈建议</button>
 					<button open-type="share" class="action-btn share-btn">发给朋友</button>
 				</view>
 			</view>
@@ -74,7 +75,7 @@
 				shareInfo: {
 					title: "庆国庆，换新颜，快来领取你的国庆头像吧",
 					imageUrl: "/static/images/share.png",
-					path: "pages/index/home"
+					path: "pages/index/index"
 				}
 			};
 		},
